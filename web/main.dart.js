@@ -30356,7 +30356,7 @@ $S:0}
 L.ze.prototype={
 F:function(a2,a3){var s,r,q,p,o,n,m,l,k,j,i,h,g=null,f="Education",e="Tech Stack",d="Exposure",c=F.av(a3,!1).a.a,b=F.av(a3,!1).a.b,a=K.a40(U.ct("assets/avatar.jpg",g,g).c,100),a0=K.a7(a3,!1).J,a1=t.t
 a0=T.eG(H.c([new T.cd(C.aj,M.bq(g,T.a21(g,g,C.c1,!0,g,new Q.fe(g,H.c([new Q.fe("Keen and driven software developer whose ambition is to grow my skillset and tackle projects to completion and above expectation.\n\n",g,g),new Q.fe("I am eager to relocate. I\u2019m ready to be fully involved with the company and completely dedicated to whatever task/tasks assigned to me.\n",g,g)],t.ru),a0.e),C.fS,g,g,1,C.aY),C.l,g,g,g,g,g,g,g,g,g,g),g)],a1),C.a2,C.J,C.aM)
-s=L.b0("Experience",K.a7(a3,!1).J.f,g,2.1)
+s=L.b0("Experience?",K.a7(a3,!1).J.f,g,2.1)
 r=c*0.25
 q=b*2.4
 p=F.av(a3,!1).a
